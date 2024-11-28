@@ -6,7 +6,10 @@
 - 🌱 I’m currently learning **MERN.**
 
 - 📫 How to reach me **hirimuthugodagejayasanka@gmail.com**
-<img src="https://raw.githubusercontent.com/JayasankaHirimuthugodage/Test_2/refs/heads/main/Computer-Code-Processing-Concept.webp" style="height: 10%;" />
+<div style="height: 100vh;">
+  <img src="https://raw.githubusercontent.com/JayasankaHirimuthugodage/Test_2/refs/heads/main/Computer-Code-Processing-Concept.webp" style="height: 10%;" />
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

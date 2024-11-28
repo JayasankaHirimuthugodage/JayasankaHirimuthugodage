@@ -19,8 +19,8 @@
 <p align="center">
   <!--- stats (start) -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jayasankahirimuthugodage&theme=light&show_icons=true&count_private=true" style="width: 45%; max-width: 400px; font-size: larger;" />
-    <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jayasankahirimuthugodage&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10" style="width: 45%; max-width: 400px; font-size: smaller;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jayasankahirimuthugodage&theme=light&show_icons=true&count_private=true" style="width: 55%; max-width: 500px; font-size: x-large;" />
+    <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jayasankahirimuthugodage&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10" style="width: 40%; max-width: 400px; font-size: smaller;" />
   </div>
   <br><br>
 

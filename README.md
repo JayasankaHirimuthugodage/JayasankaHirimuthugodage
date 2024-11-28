@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **hirimuthugodagejayasanka@gmail.com**
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/JayasankaHirimuthugodage/Test_2/refs/heads/main/Computer-Code-Processing-Concept.webp" style="width: 300px; height: 20px; object-fit: cover;" />
+ <img src="https://raw.githubusercontent.com/JayasankaHirimuthugodage/Test_2/refs/heads/main/Computer-Code-Processing-Concept.webp" style="width: 100%; height: 10px; object-fit: cover;" />
+
 </div>
 
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayasanka Hirimuthugodage</h1>
 <h3 align="center">A passionate undergraduate student in Information Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasankahirimuthugodage&label=Profile%20views&color=0e75b6&style=flat" alt="jayasankahirimuthugodage" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayasankahirimuthugodage&label=Profile%20views&color=0e75b6&style=flat" alt="jayasankahirimuthugodage" /> </p>
 
 - 🌱 I’m currently learning **MERN.**
 

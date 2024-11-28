@@ -28,7 +28,7 @@
   </td>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasankahirimuthugodage&theme=light&hide_border=false" /> 
 
-
+<br></br>
 <td width="100%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jayasankahirimuthugodage&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>

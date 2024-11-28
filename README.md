@@ -29,6 +29,7 @@
   </div>
   <!--- stats (end) -->
 </p>
+![GitHub Stats Radar Graph](https://github-readme-stats.vercel.app/api?username=jayasankahirimuthugodage&show_icons=true&count_private=true&hide=prs,issues&theme=light)
 
 ---
 

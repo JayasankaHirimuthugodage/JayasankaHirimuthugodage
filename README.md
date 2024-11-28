@@ -29,6 +29,6 @@
   </div>
   <!--- stats (end) -->
 </p>
-![My Contributions](https://metrics.lecoq.io/jayasankahirimuthugodage)
+
 ---
 

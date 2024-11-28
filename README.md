@@ -25,8 +25,7 @@
   <br><br>
 
   <div style="text-align: center;">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasankahirimuthugodage&theme=light&hide_border=false" style="width: 80%; max-width: 800px; font-size: smaller;" />
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasankahirimuthugodage&theme=light&hide_border=false" style="width: 70%; max-width: 700px; font-size: x-small;" />
   </div>
   <!--- stats (end) -->
 </p>
-

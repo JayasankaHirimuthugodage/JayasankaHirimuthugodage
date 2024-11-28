@@ -25,7 +25,7 @@
   <br><br>
 
   <div style="text-align: center;">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jayasankahirimuthugodage&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10" style="width: 80%; max-width: 800px;" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jayasankahirimuthugodage&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10" style="width: 60%; max-width: 600px; font-size: smaller;" />
   </div>
   <!--- stats (end) -->
 </p>

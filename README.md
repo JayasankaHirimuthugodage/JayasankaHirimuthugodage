@@ -20,13 +20,14 @@
   <!--- stats (start) -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=jayasankahirimuthugodage&theme=light&show_icons=true&count_private=true" style="width: 45%; max-width: 400px;" />
-    <img align="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasankahirimuthugodage&theme=light&hide_border=false" style="width: 45%; max-width: 400px;" />
+    <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jayasankahirimuthugodage&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10" style="width: 45%; max-width: 400px; font-size: smaller;" />
   </div>
   <br><br>
 
   <div style="text-align: center;">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jayasankahirimuthugodage&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10" style="width: 60%; max-width: 600px; font-size: smaller;" />
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasankahirimuthugodage&theme=light&hide_border=false" style="width: 80%; max-width: 800px;" />
   </div>
   <!--- stats (end) -->
 </p>
+
 

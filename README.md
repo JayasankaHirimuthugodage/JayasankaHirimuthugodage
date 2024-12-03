@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning **MERN.**
 
 - 📫 How to reach me **jayasankanc@gmail.com**
-<div style="text-align: center;">
+
  ---
 
 
-</div>
+
 
 
 

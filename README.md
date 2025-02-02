@@ -5,7 +5,6 @@
 
 🎯 **About Me**  
 - 🎓 I am an undergraduate student with a main focus on **Software Engineering**.
-- 🚀 Passionate about **problem-solving, programming, and software development**.
 - 🤖 Currently exploring **Machine Learning** through independent study and practical projects.
 - 🔥 Enthusiastic about integrating **emerging technologies** to develop **innovative and scalable solutions**.
 - 🌱 I’m currently learning **MERN Stack Development**.

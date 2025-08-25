@@ -7,7 +7,7 @@
 - 🎓 I am an undergraduate student with a main focus on **Software Engineering**.
 - 🔥 Enthusiastic about integrating **emerging technologies** to develop **innovative and scalable solutions**.
 - 🌱 I’m currently learning **MERN Stack Development**.
--🤖 Currently exploring **Machine Learning** through independent study and practical projects.
+- 🤖 Currently exploring **Machine Learning** through independent study and practical projects.
 - 📫 How to reach me: **jayasankanc@gmail.com**
 
 ---
